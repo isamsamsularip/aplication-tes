@@ -11,7 +11,7 @@ store for the application.
 ### Backend
 
 * PHP 7.2
-* SQLite3 for development and MySQL for production.
+* SQLite3 for development and MySQL.
 * PHPUnit for unit tests.
 * [Laravel](http://www.laravel.com) - A PHP Full stack framework
 * [Tymon/Jwt-auth](https://jwt-auth.readthedocs.io/en/develop/) - A library used in laravel for Json Web Token authentication
